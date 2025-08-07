@@ -1,0 +1,82 @@
+2025-08-06 19:27:55 - Script started
+2025-08-06 19:27:55 - Attempting to get all user packages
+2025-08-06 19:27:56 - Error: Access is denied.
+
+Access is denied.
+
+2025-08-06 19:27:56 - Attempting to show the form
+2025-08-06 19:28:00 - Script ended
+2025-08-06 19:28:50 - Script started
+2025-08-06 19:28:51 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:28:51 - Attempting to get current user packages
+2025-08-06 19:28:52 - Successfully retrieved current user packages
+2025-08-06 19:28:53 - Successfully loaded 186 packages
+2025-08-06 19:28:53 - Attempting to show the form
+2025-08-06 19:29:11 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:29:11 - Attempting to get current user packages
+2025-08-06 19:29:11 - Successfully retrieved current user packages
+2025-08-06 19:29:11 - Successfully loaded 185 packages
+2025-08-06 19:29:47 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:29:48 - Attempting to get current user packages
+2025-08-06 19:29:48 - Successfully retrieved current user packages
+2025-08-06 19:29:48 - Successfully loaded 185 packages
+2025-08-06 19:31:01 - Script ended
+2025-08-06 19:32:13 - Script started
+2025-08-06 19:32:13 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:32:13 - Attempting to get current user packages
+2025-08-06 19:32:14 - Successfully retrieved current user packages
+2025-08-06 19:32:15 - Successfully loaded 185 packages
+2025-08-06 19:32:15 - Attempting to show the form
+2025-08-06 19:32:23 - Script ended
+2025-08-06 19:33:15 - Script started
+2025-08-06 19:33:16 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:33:16 - Attempting to get current user packages
+2025-08-06 19:33:17 - Successfully retrieved current user packages
+2025-08-06 19:33:17 - Successfully loaded 185 packages
+2025-08-06 19:33:17 - Attempting to show the form
+2025-08-06 19:34:30 - Attempting to uninstall package: Microsoft.BingSearch
+2025-08-06 19:34:30 - Successfully uninstalled package: Microsoft.BingSearch
+2025-08-06 19:34:30 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:34:30 - Attempting to get current user packages
+2025-08-06 19:34:30 - Successfully retrieved current user packages
+2025-08-06 19:34:31 - Successfully loaded 184 packages
+2025-08-06 19:34:43 - Script ended
+2025-08-06 19:35:45 - Script started
+2025-08-06 19:35:46 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:35:46 - Attempting to get current user packages
+2025-08-06 19:35:46 - Successfully retrieved current user packages
+2025-08-06 19:35:47 - Attempting to show the form
+2025-08-06 19:36:11 - Script ended
+2025-08-06 19:36:33 - Script started
+2025-08-06 19:36:33 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:36:33 - Attempting to get current user packages
+2025-08-06 19:36:33 - Successfully retrieved current user packages
+2025-08-06 19:36:34 - Attempting to show the form
+2025-08-06 19:36:43 - Script ended
+2025-08-06 19:37:54 - Script started
+2025-08-06 19:37:54 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:37:54 - Attempting to get current user packages
+2025-08-06 19:37:55 - Successfully retrieved current user packages
+2025-08-06 19:37:56 - Successfully loaded 184 packages
+2025-08-06 19:37:56 - Attempting to show the form
+2025-08-06 19:38:41 - Attempting to uninstall package: MicrosoftCorporationII.QuickAssist
+2025-08-06 19:38:43 - Successfully uninstalled package: MicrosoftCorporationII.QuickAssist
+2025-08-06 19:38:43 - Not running as admin. Only retrieving current user packages.
+2025-08-06 19:38:43 - Attempting to get current user packages
+2025-08-06 19:38:43 - Successfully retrieved current user packages
+2025-08-06 19:38:43 - Successfully loaded 183 packages
+2025-08-06 19:38:56 - Script ended
+2025-08-06 19:40:49 - Script started
+2025-08-06 19:40:49 - Attempting to get all user packages
+2025-08-06 19:40:49 - Successfully retrieved all user packages
+2025-08-06 19:40:49 - Attempting to get current user packages
+2025-08-06 19:40:49 - Successfully retrieved current user packages
+2025-08-06 19:40:51 - Attempting to show the form
+2025-08-06 19:40:59 - Script ended
+2025-08-06 19:41:25 - Script started
+2025-08-06 19:41:25 - Attempting to get all user packages
+2025-08-06 19:41:25 - Successfully retrieved all user packages
+2025-08-06 19:41:25 - Attempting to get current user packages
+2025-08-06 19:41:25 - Successfully retrieved current user packages
+2025-08-06 19:41:26 - Attempting to show the form
+2025-08-06 19:41:57 - Script ended
