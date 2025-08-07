@@ -1,5 +1,6 @@
 # AppxMSIX Management Utility
 # Version 1.1
+# Use Powershell 5.
 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
